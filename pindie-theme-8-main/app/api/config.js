@@ -1,5 +1,5 @@
-//wrgrwgrwg
-export const BASE_URL = 'http://pindlefrontedwow.nomoredomainswork.ru/api'
+//gsgsgsg
+export const BASE_URL = 'https://pindlefrontedwow.nomoredomainswork.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
