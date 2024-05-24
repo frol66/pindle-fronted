@@ -1,3 +1,4 @@
+//wrgrwgrwg
 export const BASE_URL = 'http://pindlefrontedwow.nomoredomainswork.ru/api'
 
 export const endpoints = {
